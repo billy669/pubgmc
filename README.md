@@ -11,13 +11,14 @@ Current features:
 
 List of features I want to implement - Features on the top has the highest priority
 - Custom player inventory (locked slots, backpack slot, ghillie suit slot)
+- Parachutes
 - Guns and attachments
 - Vehicles
 - Night Vision googles
 - Crafting recipes
 - Enemy entity
 - World generation - Loot tables, cities and more
-- * theres much more to be added
+- Theres much more to be added
 
 License:
 Everybody is free to use any of this code without my permission. 
