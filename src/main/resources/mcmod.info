@@ -1,0 +1,13 @@
+[
+{
+  "modid": "pubgmc",
+  "name": "PUBGMC",
+  "description": "Official mod for PUBGMC modpack. If you find bug, please report it.",
+  "version": "2.0",
+  "mcversion": "1.12.2",
+  "authorList": ["Toma1O6"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
