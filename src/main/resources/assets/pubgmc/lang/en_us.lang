@@ -1,0 +1,76 @@
+item.backpack1.name=Small backpack
+item.backpack2.name=Medium backpack
+item.backpack3.name=Large backpack
+item.bandage.name=Bandage
+item.firstaidkit.name=First aid kit
+item.medkit.name=Medkit
+item.energydrink.name=Energy drink
+item.painkillers.name=Painkillers
+item.adrenalinesyringe.name=Adrenaline syringe
+item.iblock.name=Inventory blocked (icon)
+item.pan.name=Pan
+
+//Cases
+item.case1.name=BETA CASE
+
+//This will be removed in future
+item.ghilliehelmet.name=Ghillie helmet
+item.ghilliebody.name=Ghillie chestplate
+item.ghillielegs.name=Ghillie leggings
+item.ghillieboots.name=Ghillie boots
+
+//Items
+item.ghillie_suit.name=Ghillie Suit
+item.armor1helmet.name=Level 1 helmet
+item.armor1body.name=Level 1 vest
+item.armor2helmet.name=Level 2 helmet
+item.armor2body.name=Level 2 vest
+item.armor3helmet.name=Level 3 helmet
+item.armor3body.name=Level 3 vest
+item.yellow_tshirt.name=Yellow T-Shirt (common)
+item.black_glasses.name=Black glasses (very rare)
+item.brown_cap.name=Brown cap (common)
+item.gray_top.name=Gray top (common)
+item.white_boots.name=White boots (rare)
+item.official_legs.name=Official PUBGMC leggings (LEGENDARY)
+
+//Blocks
+tile.roadasphalt.name=Asphalt road
+tile.schoolwall.name=School wall
+tile.schoolroof.name=School roof
+tile.ruinswall.name=Ruins wall
+tile.chair.name=Wooden chair
+tile.schoolwindow.name=School window
+tile.blueglass.name=Blue glass
+tile.target.name=Target
+tile.lampbottom.name=Lamp bottom
+tile.lamppost.name=Lamp post
+tile.lamptop.name=Lamp top
+tile.bush.name=Bush
+tile.table.name=Table
+tile.crate.name=Crate
+tile.crates.name=Crates
+tile.airdrop.name=Airdrop
+tile.darkwood.name=Dark wood planks
+tile.light.name=Light
+tile.fence.name=Fence
+tile.concrete.name=Concrete
+tile.electricpole.name=Electric pole
+tile.electricpoletop.name=Electric pole (top)
+tile.electriccable.name=Electric cable
+tile.radiotower.name=Radio tower
+tile.radiotowertop.name=Radio tower (top)
+tile.prop1.name=PMC snack
+tile.prop2.name=Toma bar
+tile.prop3.name=Energy drink pack
+tile.prop4.name=Level 3 helmet (prop)
+tile.prop5.name=First aid kit (prop)
+tile.wheat.name=Wheat
+
+//Creative Tabs
+itemGroup.pmcitemstab=PUBGMC: Items
+itemGroup.pmcblockstab=PUBGMC: Blocks
+itemGroup.pmcclothingtab=PUBGMC: Clothing
+
+//Block containers
+container.airdrop=Airdrop
